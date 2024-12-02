@@ -1,0 +1,29 @@
+   {
+    "manifest_version": 3,
+    "name": "Forums Google",
+    "version": "1.0",
+    "description": "Afficher le lien Forums dans le menu de filtre sur les pages de résultats de recherche Google",
+    "content_scripts": [
+        {
+          "matches": [
+                "*://www.google.com/search*",
+                "*://www.google.fr/search*",
+                "*://www.google.co.uk/search*",
+                "*://www.google.de/search*",
+                "*://www.google.it/search*",
+                "*://www.google.es/search*",
+                "*://www.google.ca/search*",
+                "*://*.google.com/search*",
+                "*://*.google.fr/search*"
+            ], 
+            "js": ["content.js"]
+        }
+    ],
+    "action": {
+        "default_icon": {
+            "16": "images/forum.png",
+            "48": "images/forum.png",
+            "128": "images/forum.png"
+        }
+    }
+}
