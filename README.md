@@ -13,7 +13,7 @@
 - Facile à utiliser : aucune configuration requise.
 
 ## Téléchargement sur le Store
-Rendez-vous sur le Chrome WebStore pour télécharger l'extension Forums Google
+Rendez-vous sur le Chrome WebStore pour télécharger l'extension Forums Google : https://chromewebstore.google.com/detail/forums-google/ilmbfnfoopkmobbgcgodplkdmhbdfcal
 
 ## Installation manuelle
 
