@@ -34,3 +34,7 @@ L'extension ne collecte aucune donnée et affiche uniquement un lien dans un scr
 ## Contribuer
 
 Les contributions sont les bienvenues ! Si vous avez des idées pour améliorer cette extension, n'hésitez pas à ouvrir une issue ou à soumettre une PR
+
+<a href="https://kevin-benabdelhak.fr/soutenir/">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXY0cmdrdnNjcXlxb3hrcG15YmpzYWRqZ3BpeHNyY3I4YjZ1eXc0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R9mgVlsCuv6XCDK8Lb/giphy.gif" alt="Soutenir Kevin Benabdelhak pour développer des plugins WordPress" style="width:100%;" />
+</a>
